@@ -5,6 +5,6 @@ document.addEventListener('click', () => {
 });
 
 window.onload = () => {
-    const mainHeader = document.querySelector('h1');
+    const mainHeader = document.querySelector('#title');
     mainHeader.innerText = "deployment successful!";
 };
