@@ -11,6 +11,6 @@ document.addEventListener('click', () => {
 
 window.onload = () => {
     const mainHeader = document.querySelector('#title');
-    mainHeader.innerText = "🚧 Under Construction!";
+    mainHeader.innerText = "Sumin Oh";
 };
 
